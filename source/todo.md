@@ -12,3 +12,4 @@ title: Todo
 * add programming/user notes and links for UV-5R+
 * add programming/user notes for BC75XLT
 * add general links from [my Pinboard](https://pinboard.in/u:cdzombak/t:ham)
+* once I get HT and scanner setup for Brooklyn/NYC, publish those configs
