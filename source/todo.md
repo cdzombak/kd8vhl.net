@@ -7,9 +7,13 @@ title: Todo
 
 ![under construction](/images/construction.gif)
 
-* add local (Ann Arbor) repeater and other information
-* publish my HT configuration
+* add Ann Arbor repeater and other information
+* publish my Ann Arbor HT configuration
+* once I get HT set up for Brooklyn/NYC, publish that config
 * add programming/user notes and links for UV-5R+
-* add programming/user notes for BC75XLT
 * add general links from [my Pinboard](https://pinboard.in/u:cdzombak/t:ham)
-* once I get HT and scanner setup for Brooklyn/NYC, publish those configs
+
+## Scanner Configuration
+
+* update with local repeaters once my HT is totally set up for Brooklyn/NYC
+* remove/consolidate some duplicate aviation frequencies and see if I can fit more missing frequencies in those slots
