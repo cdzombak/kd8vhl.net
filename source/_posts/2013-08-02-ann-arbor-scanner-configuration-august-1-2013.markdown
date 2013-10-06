@@ -6,6 +6,8 @@ comments: false
 categories: Scanning, BC75XLT
 ---
 
+*You can download this configuration [here](/files/Ann_Arbor_cdzombak_2013-08.bc75xlt_ss). See also my [notes on programming and using the BC75XLT](/blog/2013/10/programming-and-using-the-bc75xlt/).*
+
 I received my new scanner, a simple analog one ([Uniden's BC75XLT](http://www.amazon.com/gp/product/B00A1VSO9M/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A1VSO9M&linkCode=as2&tag=cdzombak-20)), today and programmed it for use in Ann Arbor. My configuration splits up local frequencies into 6 banks:
 
 1. Local Ham Repeaters
